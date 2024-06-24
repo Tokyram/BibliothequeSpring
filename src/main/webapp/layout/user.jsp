@@ -2,6 +2,15 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+    
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-XSLKWYJ9TE"></script>
+            <script>
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+
+            gtag('config', 'G-XSLKWYJ9TE');
+        </script>
     <meta charset="UTF8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Bibliotheque</title>
@@ -18,14 +27,6 @@
     
     
 </head>
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-XSLKWYJ9TE"></script>
-        <script>
-        window.dataLayer = window.dataLayer || [];
-        function gtag(){dataLayer.push(arguments);}
-        gtag('js', new Date());
-
-        gtag('config', 'G-XSLKWYJ9TE');
-    </script>
 <body>
 
     <div id="main-wrapper" style="">
