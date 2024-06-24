@@ -16,7 +16,7 @@ public class DBCPDataSource {
         // ds.setMinIdle(5);
         // ds.setMaxIdle(10);
         // ds.setMaxOpenPreparedStatements(100);
-        ds.setUrl("postgresql://viaduct.proxy.rlwy.net:27630/railway");
+        ds.setUrl("postgresql://postgres:VnyKHnoptbwhOCQbbtNieKEynFbhQnOn@viaduct.proxy.rlwy.net:27630/railway");
         ds.setUsername("postgres");
         ds.setPassword("VnyKHnoptbwhOCQbbtNieKEynFbhQnOn");
         ds.setMinIdle(5);
