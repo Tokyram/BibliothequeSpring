@@ -1,5 +1,11 @@
 HELP.md
 # target/
+# Ignorer tous les répertoires target
+target/
+
+# Forcer l'inclusion des fichiers JAR dans target
+!target/*.jar
+
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
 !**/src/test/**/target/
