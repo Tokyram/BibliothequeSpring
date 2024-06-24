@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>BibliothequeSpring</title>
+    <title>Bibliotheque</title>
     
     <link rel="icon" type="image/png" sizes="16x16" href="assets/images/spring.svg">
     <!-- Pignose Calender -->
