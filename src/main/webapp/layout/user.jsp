@@ -15,7 +15,10 @@
     <!-- Custom Stylesheet -->
     <link href="/assets/css/style.css" rel="stylesheet" asp-append-version="true">
     <!-- Google tag (gtag.js) -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-XSLKWYJ9TE"></script>
+    
+    
+</head>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-XSLKWYJ9TE"></script>
         <script>
         window.dataLayer = window.dataLayer || [];
         function gtag(){dataLayer.push(arguments);}
@@ -23,8 +26,6 @@
 
         gtag('config', 'G-XSLKWYJ9TE');
     </script>
-    
-</head>
 <body>
 
     <div id="main-wrapper" style="">
