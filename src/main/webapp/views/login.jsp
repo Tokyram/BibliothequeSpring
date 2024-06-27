@@ -9,6 +9,16 @@
     <title>Bibliotheque</title>
     <link rel="icon" type="image/png" sizes="16x16" href="assets/images/spring.svg">
     <link href="assets/css/style.css" rel="stylesheet">
+
+     <!-- Google tag (gtag.js) -->
+     <script async src="https://www.googletagmanager.com/gtag/js?id=G-XSLKWYJ9TE"></script>
+     <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'G-XSLKWYJ9TE');
+    </script>
 </head>
 
 <body class="h-100">
