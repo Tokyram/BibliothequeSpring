@@ -55,10 +55,10 @@
 </div>
 
 
-<script src="/assets/plugins/common/common.min.js"></script>
-<script src="/assets/js/custom.min.js"></script>
-<script src="/assets/js/settings.js"></script>
-<script src="/assets/js/gleek.js"></script>
-<script src="/assets/js/styleSwitcher.js"></script>
+<script async src="/assets/plugins/common/common.min.js"></script>
+<script async src="/assets/js/custom.min.js"></script>
+<script async src="/assets/js/settings.js"></script>
+<script async src="/assets/js/gleek.js"></script>
+<script async src="/assets/js/styleSwitcher.js"></script>
 
 <%@ include file="/layout/footer.jsp" %>

@@ -4,14 +4,14 @@
 <%@ page import="com.example.bibliotheque.bean.*" %>
 <%  List<Livre> listeLivre = (List<Livre>)request.getAttribute("livres");  %>
 
-<script src="/assets/plugins/common/common.min.js"></script>
-<script src="/assets/js/custom.min.js"></script>
-<script src="/assets/js/settings.js"></script>
-<script src="/assets/js/gleek.js"></script>
-<script src="/assets/js/styleSwitcher.js"></script>
+<script async src="/assets/plugins/common/common.min.js"></script>
+<script async src="/assets/js/custom.min.js"></script>
+<script async src="/assets/js/settings.js"></script>
+<script async src="/assets/js/gleek.js"></script>
+<script async src="/assets/js/styleSwitcher.js"></script>
 
-<script src="/assets/plugins/tables/js/jquery.dataTables.min.js"></script>
-<script src="/assets/plugins/tables/js/datatable-init/datatable-basic.min.js"></script>
+<script async src="/assets/plugins/tables/js/jquery.dataTables.min.js"></script>
+<script async src="/assets/plugins/tables/js/datatable-init/datatable-basic.min.js"></script>
 
 <div class="col-lg-12">
     <% 
