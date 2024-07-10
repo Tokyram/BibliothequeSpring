@@ -251,7 +251,7 @@
           <div class="col-md">
             <div class="ftco-footer-widget mb-4">
               <h2 class="ftco-heading-2"><a href="#" class="logo">Biblio<span>theque</span></a></h2>
-              <p>This project was made by two people <span style="font-weight:bold;font-style:italic;">Ramalalarison Tokiniaina ETU 002100 </span> and <span style="font-weight:bold;font-style:italic;">Raveloson Ismael ETU 002219 </span> </p>
+              <p>This project was made by two people <span style="font-weight:bold;font-style:italic;">Ramalalarison Tokiniaina ETU 002180 </span> and <span style="font-weight:bold;font-style:italic;">Raveloson Ismael ETU 002219 </span> </p>
               <ul class="ftco-footer-social list-unstyled float-md-left float-lft mt-5">
                 <li class="ftco-animate"><a href="#"><span class="icon-twitter"></span></a></li>
                 <li class="ftco-animate"><a href="#"><span class="icon-facebook"></span></a></li>
