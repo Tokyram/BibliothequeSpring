@@ -70,7 +70,7 @@ public class HomeController {
     @RequestMapping("/logout")
     public RedirectView disconnect(HttpSession session) {
         session.invalidate();
-        return new RedirectView("/login");
+        return new RedirectView("/");
     }
     
     @GetMapping("/user_login")
