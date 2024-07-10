@@ -38,7 +38,7 @@
     
     <style>
       .ftco-degree-bg:after{
-        bottom: -60px;
+        bottom: -210px;
       }
 
       .no-gutters{
@@ -48,10 +48,10 @@
   </head>
   <body>
      <!-- Google Tag Manager (noscript) -->
-     <noscript>
+     <%-- <noscript>
       <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PC9SM6JV"
       height="0" width="0" style="display:none;visibility:hidden"></iframe>
-      </noscript>
+      </noscript> --%>
       <!-- End Google Tag Manager (noscript) -->
        
 	  <nav class="navbar navbar-expand-lg navbar-dark ftco_navbar bg-dark ftco-navbar-light" id="ftco-navbar">
@@ -80,7 +80,7 @@
           <div class="col-lg-8 ftco-animate">
           	<div class="text w-100 text-center mb-md-5 pb-md-5">
 	            <h1 class="mb-4">Fast &amp; Easy Way To Rent A Book</h1>
-	            <p style="font-size: 18px;">A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts</p>
+	            <p style="font-size: 18px;">The journey begins here. Explore a world of possibilities with our expansive library of books and embark on unforgettable adventures.</p>
             </div>
           </div>
         </div>
@@ -306,9 +306,9 @@
 
   <!-- loader -->
 
-  <script src="index/js/jquery.min.js"></script>
-  <script src="index/js/jquery-migrate-3.0.1.min.js"></script>
-  <script src="index/js/bootstrap.min.js"></script>
+  <script src="index/js/jquery.min.js" ></script>
+  <script src="index/js/jquery-migrate-3.0.1.min.js" ></script>
+  <script src="index/js/bootstrap.min.js" ></script>
   <script src="index/js/jquery.easing.1.3.js"></script>
   <script src="index/js/jquery.waypoints.min.js"></script>
   <script src="index/js/owl.carousel.min.js"></script>
@@ -317,7 +317,7 @@
   <script src="index/js/scrollax.min.js"></script>
   <script src="index/js/jquery.stellar.min.js"></script>
 
-  <script src="index/js/main.js"></script>
+  <script src="index/js/main.js" ></script>
     
   </body>
 </html>
