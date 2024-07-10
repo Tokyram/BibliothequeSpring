@@ -65,6 +65,7 @@
 	        <ul class="navbar-nav ml-auto">
 	            <li class="nav-item active"><a href="/" class="nav-link">Home</a></li>
                 <li class="nav-item"><a href="/inscription" class="nav-link">SignIn</a></li>
+                <li class="nav-item"><a href="/login" class="nav-link">LogIn</a></li>
 	            <li class="nav-item"><a href="#" class="nav-link">Contact</a></li> 
 	        </ul>
 	      </div>
