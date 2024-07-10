@@ -47,7 +47,13 @@
     </style>
   </head>
   <body>
-    
+     <!-- Google Tag Manager (noscript) -->
+     <noscript>
+      <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PC9SM6JV"
+      height="0" width="0" style="display:none;visibility:hidden"></iframe>
+      </noscript>
+      <!-- End Google Tag Manager (noscript) -->
+       
 	  <nav class="navbar navbar-expand-lg navbar-dark ftco_navbar bg-dark ftco-navbar-light" id="ftco-navbar">
 	    <div class="container">
 	      <a class="navbar-brand" href="/">Biblio<span>theque</span></a>
