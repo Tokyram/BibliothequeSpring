@@ -205,7 +205,7 @@
     </section>
 
 
-    <section class="ftco-counter ftco-section img bg-light" id="section-counter">
+    <!-- <section class="ftco-counter ftco-section img bg-light" id="section-counter">
 			<div class="overlay"></div>
     	<div class="container">
     		<div class="row">
@@ -243,7 +243,7 @@
           </div>
         </div>
     	</div>
-    </section>	
+    </section>	 -->
 
     <footer class="ftco-footer ftco-bg-dark ftco-section">
       <div class="container">
