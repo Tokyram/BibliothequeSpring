@@ -110,7 +110,7 @@
 				              	<div class="icon d-flex align-items-center justify-content-center"><img src="index/icon/card.svg" alt="" style="width:70%;"></img> </div>
 				              	<div class="text w-100">
 					                <h3 class="heading mb-2">Remember your Identifiant</h3>
-					              </div>
+					            </div>
 					            </div>      
 					          </div>
 					          <div class="col-md-4 d-flex align-self-stretch ftco-animate">
@@ -118,7 +118,7 @@
 				              	<div class="icon d-flex align-items-center justify-content-center"> <img src="index/icon/book.svg" alt="" style="width:70%;"></img> </div>
 				              	<div class="text w-100">
 					                <h3 class="heading mb-2">Rent many book as you want</h3>
-					              </div>
+					            </div>
 					            </div>      
 					          </div>
 					        </div>
@@ -305,8 +305,6 @@
   
 
   <!-- loader -->
-  <div id="ftco-loader" class="show fullscreen"><svg class="circular" width="48px" height="48px"><circle class="path-bg" cx="24" cy="24" r="22" fill="none" stroke-width="4" stroke="#eeeeee"/><circle class="path" cx="24" cy="24" r="22" fill="none" stroke-width="4" stroke-miterlimit="10" stroke="#F96D00"/></svg></div>
-
 
   <script async src="index/js/jquery.min.js"></script>
   <script async src="index/js/jquery-migrate-3.0.1.min.js"></script>
