@@ -17,11 +17,6 @@
     <title>Bibliotheque</title>
     
     <link rel="icon" type="image/png" sizes="16x16" href="assets/images/spring.svg">
-    <!-- Pignose Calender -->
-    <link href="/assets/plugins/pg-calendar/css/pignose.calendar.min.css" rel="stylesheet">
-    <!-- Chartist -->
-    <link rel="stylesheet" href="/assets/plugins/chartist/css/chartist.min.css">
-    <link rel="stylesheet" href="/assets/plugins/chartist-plugin-tooltips/css/chartist-plugin-tooltip.css">
     <!-- Custom Stylesheet -->
     <link href="/assets/css/style.css" rel="stylesheet" asp-append-version="true">
     <!-- Google tag (gtag.js) -->

@@ -34,7 +34,7 @@ public class HomeController {
     UtilisateurService utilisateurService;
 
 
-    @GetMapping("/")
+    @GetMapping("/login")
     public String login(Model model){
         
         if (model.containsAttribute("error")) {
@@ -70,7 +70,7 @@ public class HomeController {
     @RequestMapping("/logout")
     public RedirectView disconnect(HttpSession session) {
         session.invalidate();
-        return new RedirectView("/");
+        return new RedirectView("/login");
     }
     
     @GetMapping("/user_login")
@@ -87,17 +87,17 @@ public class HomeController {
                 }else{
                     System.out.println("Tsy hita");
                     redirectAttributes.addFlashAttribute("error","Identifiant introuvable");
-                    return new RedirectView("/");
+                    return new RedirectView("/login");
                 }    
             }catch(Exception e){
                 // 
-                return new RedirectView("/");
+                return new RedirectView("/login");
             }
 
         }else{
             redirectAttributes.addFlashAttribute("error","Veuillez remplir tout les champs");
             System.out.println("tsy mety");
-            return new RedirectView("/");
+            return new RedirectView("/login");
         }
     }
 
@@ -172,6 +172,12 @@ public class HomeController {
             e.printStackTrace();
         }
 
+    }
+
+
+    @GetMapping("/")
+    public String myBook(){
+        return "index";
     }
 
 }

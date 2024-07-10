@@ -112,7 +112,7 @@
                                                 <div class="alert alert-danger" style="margin-top:30px;"><%= error %></div>
                                     <% } %>
 
-                                    <p class="mt-5 login-form__footer">Have account <a href="/" class="text-primary">Sign Up </a> now</p>
+                                    <p class="mt-5 login-form__footer">Have account <a href="/login" class="text-primary">Sign Up </a> now</p>
                                     </p>
                                 </div>
                             </div>
