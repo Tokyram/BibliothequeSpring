@@ -36,7 +36,7 @@
         gtag('config', 'G-XSLKWYJ9TE');
     </script>
     
-    <!-- <style>
+    <style>
       :after{
         bottom: -210px;
       }
@@ -44,7 +44,7 @@
       .no-gutters{
         justify-content: center;
       }
-    </style> -->
+    </style>
   </head>
   <body style="background-color: #e5e5e5;">
      <!-- Google Tag Manager (noscript) -->
