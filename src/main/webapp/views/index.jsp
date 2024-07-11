@@ -37,7 +37,7 @@
     </script>
     
     <style>
-      .ftco-degree-bg:after{
+      .:after{
         bottom: -210px;
       }
 
@@ -46,7 +46,7 @@
       }
     </style>
   </head>
-  <body>
+  <body style="background-color: #e5e5e5;">
      <!-- Google Tag Manager (noscript) -->
      <%-- <noscript>
       <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PC9SM6JV"
@@ -73,7 +73,7 @@
 	  </nav>
     <!-- END nav -->
     
-    <div class="hero-wrap ftco-degree-bg" style="background-image: url('index/images/book/library.webp');" data-stellar-background-ratio="0.5">
+    <div class="hero-wrap " style="background-image: url('index/images/book/library.webp');" data-stellar-background-ratio="0.5">
       <div class="overlay"></div>
       <div class="container">
         <div class="row no-gutters slider-text justify-content-start align-items-center justify-content-center">
@@ -87,7 +87,7 @@
       </div>
     </div>
 
-     <section class="ftco-section ftco-no-pt bg-light">
+     <section >
     	<div class="container" >
     		<div class="row no-gutters">
     			<div class="col-md-12	featured-top">
@@ -131,7 +131,7 @@
     </section>
 
 
-    <section class="ftco-section ftco-no-pt bg-light">
+    <section style="background-color: #e5e5e5; margin-top: 50px;">
     	<div class="container">
     		<div class="row justify-content-center">
           <div class="col-md-12 heading-section text-center  mb-5">
