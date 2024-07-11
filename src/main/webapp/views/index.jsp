@@ -57,7 +57,7 @@
 	  <nav class="navbar navbar-expand-lg navbar-dark ftco_navbar bg-dark ftco-navbar-light" id="ftco-navbar">
 	    <div class="container">
 	      <a class="navbar-brand" href="/">Biblio<span>theque</span></a>
-	      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#ftco-nav" aria-controls="ftco-nav" aria-expanded="false" aria-label="Toggle navigation">
+	      <button class="navbar-toggler"  type="button" data-toggle="collapse" data-target="#ftco-nav" aria-controls="ftco-nav" aria-expanded="false" aria-label="Toggle navigation">
 	        <span class="oi oi-menu"></span> Menu
 	      </button>
 
@@ -147,12 +147,12 @@
 		    					<div class="img rounded d-flex align-items-end" style="background-image: url(index/images/Ary.jpg);">
 		    					</div>
 		    					<div class="text">
-		    						<h2 class="mb-0"><a href="#">Ary</a></h2>
+		    						<h2 class="mb-0"><a href="https://bibliothequespring-production.up.railway.app/">Ary</a></h2>
 		    						<div class="d-flex mb-3">
 			    						<span class="">Catemouse James</span>
 			    						
 		    						</div>
-		    						<p class="d-flex mb-0 d-block"><a href="#" class="btn btn-secondary py-2 ml-1">Details</a></p>
+		    						<p class="d-flex mb-0 d-block"><a href="https://bibliothequespring-production.up.railway.app/" class="btn btn-secondary py-2 ml-1">Details</a></p>
 		    					</div>
 		    				</div>
     					</div>
@@ -161,12 +161,12 @@
 		    					<div class="img rounded d-flex align-items-end" style="background-image: url(index/images/Lightfall.jpg);">
 		    					</div>
 		    					<div class="text">
-		    						<h2 class="mb-0"><a href="#">Lightfall</a></h2>
+		    						<h2 class="mb-0"><a href="https://bibliothequespring-production.up.railway.app/">Lightfall</a></h2>
 		    						<div class="d-flex mb-3">
 			    						<span class="">Emma Todd</span>
 			    						
 		    						</div>
-		    						<p class="d-flex mb-0 d-block"><a href="#" class="btn btn-secondary py-2 ml-1">Details</a></p>
+		    						<p class="d-flex mb-0 d-block"><a href="https://bibliothequespring-production.up.railway.app/" class="btn btn-secondary py-2 ml-1">Details</a></p>
 		    					</div>
 		    				</div>
     					</div>
@@ -175,12 +175,12 @@
 		    					<div class="img rounded d-flex align-items-end" style="background-image: url(index/images/Harry.jpg);">
 		    					</div>
 		    					<div class="text">
-		    						<h2 class="mb-0"><a href="#">Harry and the Prisonner...</a></h2>
+		    						<h2 class="mb-0"><a href="https://bibliothequespring-production.up.railway.app/">Harry and the Prisonner...</a></h2>
 		    						<div class="d-flex mb-3">
 			    						<span class="">J.K Rowling</span>
 			    						
 		    						</div>
-		    						<p class="d-flex mb-0 d-block"><a href="#" class="btn btn-secondary py-2 ml-1">Details</a></p>
+		    						<p class="d-flex mb-0 d-block"><a href="https://bibliothequespring-production.up.railway.app/" class="btn btn-secondary py-2 ml-1">Details</a></p>
 		    					</div>
 		    				</div>
     					</div>
@@ -189,12 +189,12 @@
 		    					<div class="img rounded d-flex align-items-end" style="background-image: url(index/images/Harry2.jpg);">
 		    					</div>
 		    					<div class="text">
-		    						<h2 class="mb-0"><a href="#">Harry and the Philosopher...</a></h2>
+		    						<h2 class="mb-0"><a href="https://bibliothequespring-production.up.railway.app/">Harry and the Philosopher...</a></h2>
 		    						<div class="d-flex mb-3">
 			    						<span class="">J.K Rowling</span>
 			    						
 		    						</div>
-		    						<p class="d-flex mb-0 d-block"><a href="#" class="btn btn-secondary py-2 ml-1">Details</a></p>
+		    						<p class="d-flex mb-0 d-block"><a href="https://bibliothequespring-production.up.railway.app/" class="btn btn-secondary py-2 ml-1">Details</a></p>
 		    					</div>
 		    				</div>
     					</div>
@@ -250,12 +250,12 @@
         <div class="row mb-5">
           <div class="col-md">
             <div class="ftco-footer-widget mb-4">
-              <h2 class="ftco-heading-2"><a href="#" class="logo">Biblio<span>theque</span></a></h2>
+              <h2 class="ftco-heading-2"><a href="https://bibliothequespring-production.up.railway.app/" class="logo">Biblio<span>theque</span></a></h2>
               <p>This project was made by two people <span style="font-weight:bold;font-style:italic;">Ramalalarison Tokiniaina ETU 002180 </span> and <span style="font-weight:bold;font-style:italic;">Raveloson Ismael ETU 002219 </span> </p>
               <ul class="ftco-footer-social list-unstyled float-md-left float-lft mt-5">
-                <li class="ftco-animate"><a href="#"><span class="icon-twitter"></span></a></li>
-                <li class="ftco-animate"><a href="#"><span class="icon-facebook"></span></a></li>
-                <li class="ftco-animate"><a href="#"><span class="icon-instagram"></span></a></li>
+                <li class="ftco-animate"><a href="https://bibliothequespring-production.up.railway.app/"><span class="icon-twitter"></span></a></li>
+                <li class="ftco-animate"><a href="https://bibliothequespring-production.up.railway.app/"><span class="icon-facebook"></span></a></li>
+                <li class="ftco-animate"><a href="https://bibliothequespring-production.up.railway.app/"><span class="icon-instagram"></span></a></li>
               </ul>
             </div>
           </div>
@@ -263,11 +263,11 @@
             <div class="ftco-footer-widget mb-4 ml-md-5">
               <h2 class="ftco-heading-2">Information</h2>
               <ul class="list-unstyled">
-                <li><a href="#" class="py-2 d-block">About</a></li>
-                <li><a href="#" class="py-2 d-block">Services</a></li>
-                <li><a href="#" class="py-2 d-block">Term and Conditions</a></li>
-                <li><a href="#" class="py-2 d-block">Best Price Guarantee</a></li>
-                <li><a href="#" class="py-2 d-block">Privacy &amp; Cookies Policy</a></li>
+                <li><a href="https://bibliothequespring-production.up.railway.app/" class="py-2 d-block">About</a></li>
+                <li><a href="https://bibliothequespring-production.up.railway.app/" class="py-2 d-block">Services</a></li>
+                <li><a href="https://bibliothequespring-production.up.railway.app/" class="py-2 d-block">Term and Conditions</a></li>
+                <li><a href="https://bibliothequespring-production.up.railway.app/" class="py-2 d-block">Best Price Guarantee</a></li>
+                <li><a href="https://bibliothequespring-production.up.railway.app/" class="py-2 d-block">Privacy &amp; Cookies Policy</a></li>
               </ul>
             </div>
           </div>
@@ -275,11 +275,11 @@
              <div class="ftco-footer-widget mb-4">
               <h2 class="ftco-heading-2">Customer Support</h2>
               <ul class="list-unstyled">
-                <li><a href="#" class="py-2 d-block">FAQ</a></li>
-                <li><a href="#" class="py-2 d-block">Payment Option</a></li>
-                <li><a href="#" class="py-2 d-block">Booking Tips</a></li>
-                <li><a href="#" class="py-2 d-block">How it works</a></li>
-                <li><a href="#" class="py-2 d-block">Contact Us</a></li>
+                <li><a href="https://bibliothequespring-production.up.railway.app/" class="py-2 d-block">FAQ</a></li>
+                <li><a href="https://bibliothequespring-production.up.railway.app/" class="py-2 d-block">Payment Option</a></li>
+                <li><a href="https://bibliothequespring-production.up.railway.app/" class="py-2 d-block">Booking Tips</a></li>
+                <li><a href="https://bibliothequespring-production.up.railway.app/" class="py-2 d-block">How it works</a></li>
+                <li><a href="https://bibliothequespring-production.up.railway.app/" class="py-2 d-block">Contact Us</a></li>
               </ul>
             </div>
           </div>
@@ -289,8 +289,8 @@
             	<div class="block-23 mb-3">
 	              <ul>
 	                <li><span class="icon icon-map-marker"></span><span class="text">102 Andoharanofotsy</span></li>
-	                <li><a href="#"><span class="icon icon-phone"></span><span class="text">+2 392 3929 210</span></a></li>
-	                <li><a href="#"><span class="icon icon-envelope"></span><span class="text">artokx@gmail.com</span></a></li>
+	                <li><a href="ramtoky6@gmail.com"><span class="icon icon-phone"></span><span class="text">+2 392 3929 210</span></a></li>
+	                <li><a href="ramtoky6@gmail.com"><span class="icon icon-envelope"></span><span class="text">artokx@gmail.com</span></a></li>
 	              </ul>
 	            </div>
             </div>
@@ -314,6 +314,7 @@
   <script src="index/js/owl.carousel.min.js"></script>
   <script src="index/js/aos.js"></script>
   <script src="index/js/jquery.animateNumber.min.js"></script>
+  <script src="index/js/jquery.magnific-popup.min.js"></script>
   <script src="index/js/scrollax.min.js"></script>
   <script src="index/js/jquery.stellar.min.js"></script>
 
