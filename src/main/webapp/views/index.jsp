@@ -306,7 +306,7 @@
 
   <!-- loader -->
 
-  <script src="index/js/jquery.min.js" ></script>
+  <!-- <script src="index/js/jquery.min.js" ></script>
   <script src="index/js/jquery-migrate-3.0.1.min.js" ></script>
   <script src="index/js/bootstrap.min.js" ></script>
   <script src="index/js/jquery.easing.1.3.js"></script>
@@ -318,7 +318,7 @@
   <script src="index/js/scrollax.min.js"></script>
   <script src="index/js/jquery.stellar.min.js"></script>
 
-  <script src="index/js/main.js" ></script>
+  <script src="index/js/main.js" ></script> -->
     
   </body>
 </html>
