@@ -36,15 +36,15 @@
         gtag('config', 'G-XSLKWYJ9TE');
     </script>
     
-    <style>
-      .:after{
+    <!-- <style>
+      :after{
         bottom: -210px;
       }
 
       .no-gutters{
         justify-content: center;
       }
-    </style>
+    </style> -->
   </head>
   <body style="background-color: #e5e5e5;">
      <!-- Google Tag Manager (noscript) -->
@@ -73,7 +73,7 @@
 	  </nav>
     <!-- END nav -->
     
-    <div class="hero-wrap " style="background-image: url('index/images/book/library.webp');" data-stellar-background-ratio="0.5">
+    <div class="hero-wrap " style="background-image: url('index/images/book/library.webp'); animation :none" data-stellar-background-ratio="0.5">
       <div class="overlay"></div>
       <div class="container">
         <div class="row no-gutters slider-text justify-content-start align-items-center justify-content-center">
