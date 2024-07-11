@@ -13,7 +13,6 @@
     <link rel="stylesheet" href="index/css/owl.theme.default.min.css">
 
     <link rel="stylesheet" href="index/css/style.css">
-    <link rel="stylesheet" href="index/css/card.css">
     <link rel="stylesheet" href="index/css/flaticon.css">
     <link rel="stylesheet" href="index/css/icomoon.css">
 
@@ -89,12 +88,12 @@
     </div>
 
      <section class="ftco-section ftco-no-pt bg-light">
-    	<div class="container">
+    	<div class="container" >
     		<div class="row no-gutters">
     			<div class="col-md-12	featured-top">
     				<div class="row no-gutters">
 	  	
-	  					<div class="col-md-8 d-flex align-items-center">
+	  					<div class="col-md-8 d-flex align-items-center" style="color: #e5e5e5;">
 	  						<div class="services-wrap rounded-right w-100">
 	  							<h3 class="heading-section mb-4">Better Way to Rent Book Online</h3>
 	  							<div class="row d-flex mb-4">
@@ -123,7 +122,7 @@
 					            </div>      
 					          </div>
 					        </div>
-					        <p><a href="/inscription" class="btn btn-primary py-3 px-4">Rent Your First Book</a></p>
+					        <p><a style="background-color: #6f42c1 !important;" href="/inscription" class="btn btn-primary py-3 px-4">Rent Your First Book</a></p>
 	  						</div>
 	  					</div>
 	  				</div>
@@ -136,7 +135,7 @@
     	<div class="container">
     		<div class="row justify-content-center">
           <div class="col-md-12 heading-section text-center  mb-5">
-          	<span class="subheading">What we have</span>
+          	<span class="subheading" style="color: #6f42c1 !important;">What we have</span>
             <h2 class="mb-2">Feeatured Books</h2>
           </div>
         </div>
@@ -150,10 +149,10 @@
 		    					<div class="text">
 		    						<h2 class="mb-0"><a href="https://boutique.laterit.fr/fr/bande-dessinee/550-bd-ary-tome-1-les-yeux-d-isalo.html">Ary</a></h2>
 		    						<div class="d-flex mb-3">
-			    						<span class="">Catemouse James</span>
+			    						<span class="" style="color: #6f42c1 !important;">Catemouse James</span>
 			    						
 		    						</div>
-		    						<p class="d-flex mb-0 d-block"><a href="https://boutique.laterit.fr/fr/bande-dessinee/550-bd-ary-tome-1-les-yeux-d-isalo.html" class="btn btn-secondary py-2 ml-1">Details</a></p>
+		    						<p class="d-flex mb-0 d-block"><a href="https://boutique.laterit.fr/fr/bande-dessinee/550-bd-ary-tome-1-les-yeux-d-isalo.html" class="btn btn-secondary py-2 ml-1" style="background-color: #6f42c1 !important;border : none !important;">Details</a></p>
 		    					</div>
 		    				</div>
     					</div>
@@ -164,10 +163,10 @@
 		    					<div class="text">
 		    						<h2 class="mb-0"><a href="https://www.amazon.fr/Lightfall-LOmbre-lOiseau-Tim-Probert-ebook/dp/B0B784WLH1">Lightfall</a></h2>
 		    						<div class="d-flex mb-3">
-			    						<span class="">Emma Todd</span>
+			    						<span class="" style="color: #6f42c1 !important;">Emma Todd</span>
 			    						
 		    						</div>
-		    						<p class="d-flex mb-0 d-block"><a href="https://www.amazon.fr/Lightfall-LOmbre-lOiseau-Tim-Probert-ebook/dp/B0B784WLH1" class="btn btn-secondary py-2 ml-1">Details</a></p>
+		    						<p class="d-flex mb-0 d-block"><a href="https://www.amazon.fr/Lightfall-LOmbre-lOiseau-Tim-Probert-ebook/dp/B0B784WLH1" class="btn btn-secondary py-2 ml-1" style="background-color: #6f42c1 !important;border : none !important;">Details</a></p>
 		    					</div>
 		    				</div>
     					</div>
@@ -178,10 +177,10 @@
 		    					<div class="text">
 		    						<h2 class="mb-0"><a href="https://citybiblio.lu/resource/harry-potter-and-the-prisoner-of-azkaban?csrt=11747350821973377534">Harry and the Prisonner...</a></h2>
 		    						<div class="d-flex mb-3">
-			    						<span class="">J.K Rowling</span>
+			    						<span class="" style="color: #6f42c1 !important;">J.K Rowling</span>
 			    						
 		    						</div>
-		    						<p class="d-flex mb-0 d-block"><a href="https://citybiblio.lu/resource/harry-potter-and-the-prisoner-of-azkaban?csrt=11747350821973377534" class="btn btn-secondary py-2 ml-1">Details</a></p>
+		    						<p class="d-flex mb-0 d-block"><a href="https://citybiblio.lu/resource/harry-potter-and-the-prisoner-of-azkaban?csrt=11747350821973377534" class="btn btn-secondary py-2 ml-1" style="background-color: #6f42c1 !important;border : none !important;">Details</a></p>
 		    					</div>
 		    				</div>
     					</div>
@@ -192,10 +191,10 @@
 		    					<div class="text">
 		    						<h2 class="mb-0"><a href="https://www.britannica.com/topic/Harry-Potter-and-the-Philosophers-Stone">Harry and the Philosopher...</a></h2>
 		    						<div class="d-flex mb-3">
-			    						<span class="">J.K Rowling</span>
+			    						<span class="" style="color: #6f42c1 !important;">J.K Rowling</span>
 			    						
 		    						</div>
-		    						<p class="d-flex mb-0 d-block"><a href="https://www.britannica.com/topic/Harry-Potter-and-the-Philosophers-Stone" class="btn btn-secondary py-2 ml-1">Details</a></p>
+		    						<p class="d-flex mb-0 d-block"><a href="https://www.britannica.com/topic/Harry-Potter-and-the-Philosophers-Stone" class="btn btn-secondary py-2 ml-1" style="background-color: #6f42c1 !important;border : none !important;">Details</a></p>
 		    					</div>
 		    				</div>
     					</div>
