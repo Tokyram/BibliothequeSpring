@@ -13,6 +13,7 @@
     <link rel="stylesheet" href="index/css/owl.theme.default.min.css">
 
     <link rel="stylesheet" href="index/css/style.css">
+    <link rel="stylesheet" href="index/css/card.css">
     <link rel="stylesheet" href="index/css/flaticon.css">
     <link rel="stylesheet" href="index/css/icomoon.css">
 
@@ -77,7 +78,7 @@
       <div class="overlay"></div>
       <div class="container">
         <div class="row no-gutters slider-text justify-content-start align-items-center justify-content-center">
-          <div class="col-lg-8 ftco-animate">
+          <div class="col-lg-8">
           	<div class="text w-100 text-center mb-md-5 pb-md-5">
 	            <h1 class="mb-4">Fast &amp; Easy Way To Rent A Book</h1>
 	            <p style="font-size: 18px;">The journey begins here. Explore a world of possibilities with our expansive library of books and embark on unforgettable adventures.</p>
@@ -97,7 +98,7 @@
 	  						<div class="services-wrap rounded-right w-100">
 	  							<h3 class="heading-section mb-4">Better Way to Rent Book Online</h3>
 	  							<div class="row d-flex mb-4">
-					          <div class="col-md-4 d-flex align-self-stretch ftco-animate">
+					          <div class="col-md-4 d-flex align-self-stretch ">
 					            <div class="services w-100 text-center">
 				              	<div class="icon d-flex align-items-center justify-content-center"> <img src="index/icon/avatar.svg" alt="" style="width:70%;"></img> </div>
 				              	<div class="text w-100">
@@ -105,7 +106,7 @@
 				                </div>
 					            </div>      
 					          </div>
-					          <div class="col-md-4 d-flex align-self-stretch ftco-animate">
+					          <div class="col-md-4 d-flex align-self-stretch ">
 					            <div class="services w-100 text-center">
 				              	<div class="icon d-flex align-items-center justify-content-center"><img src="index/icon/card.svg" alt="" style="width:70%;"></img> </div>
 				              	<div class="text w-100">
@@ -113,7 +114,7 @@
 					            </div>
 					            </div>      
 					          </div>
-					          <div class="col-md-4 d-flex align-self-stretch ftco-animate">
+					          <div class="col-md-4 d-flex align-self-stretch ">
 					            <div class="services w-100 text-center">
 				              	<div class="icon d-flex align-items-center justify-content-center"> <img src="index/icon/book.svg" alt="" style="width:70%;"></img> </div>
 				              	<div class="text w-100">
@@ -134,67 +135,67 @@
     <section class="ftco-section ftco-no-pt bg-light">
     	<div class="container">
     		<div class="row justify-content-center">
-          <div class="col-md-12 heading-section text-center ftco-animate mb-5">
+          <div class="col-md-12 heading-section text-center  mb-5">
           	<span class="subheading">What we have</span>
             <h2 class="mb-2">Feeatured Books</h2>
           </div>
         </div>
     		<div class="row">
     			<div class="col-md-12">
-    				<div class="carousel-car owl-carousel">
-    					<div class="item">
-    						<div class="car-wrap rounded ftco-animate">
+    				<div class="carousel-car" style="display: flex !important; justify-content: space-between !important;flex-wrap: wrap !important;">
+    					<div class="item" style="width: 300px;">
+    						<div class="car-wrap rounded ">
 		    					<div class="img rounded d-flex align-items-end" style="background-image: url(index/images/Ary.webp);">
 		    					</div>
 		    					<div class="text">
-		    						<h2 class="mb-0"><a href="https://bibliothequespring-production.up.railway.app/">Ary</a></h2>
+		    						<h2 class="mb-0"><a href="https://boutique.laterit.fr/fr/bande-dessinee/550-bd-ary-tome-1-les-yeux-d-isalo.html">Ary</a></h2>
 		    						<div class="d-flex mb-3">
 			    						<span class="">Catemouse James</span>
 			    						
 		    						</div>
-		    						<p class="d-flex mb-0 d-block"><a href="https://bibliothequespring-production.up.railway.app/" class="btn btn-secondary py-2 ml-1">Details</a></p>
+		    						<p class="d-flex mb-0 d-block"><a href="https://boutique.laterit.fr/fr/bande-dessinee/550-bd-ary-tome-1-les-yeux-d-isalo.html" class="btn btn-secondary py-2 ml-1">Details</a></p>
 		    					</div>
 		    				</div>
     					</div>
-    					<div class="item">
-    						<div class="car-wrap rounded ftco-animate">
+    					<div class="item" style="width: 300px;">
+    						<div class="car-wrap rounded ">
 		    					<div class="img rounded d-flex align-items-end" style="background-image: url(index/images/Lightfall.webp);">
 		    					</div>
 		    					<div class="text">
-		    						<h2 class="mb-0"><a href="https://bibliothequespring-production.up.railway.app/">Lightfall</a></h2>
+		    						<h2 class="mb-0"><a href="https://www.amazon.fr/Lightfall-LOmbre-lOiseau-Tim-Probert-ebook/dp/B0B784WLH1">Lightfall</a></h2>
 		    						<div class="d-flex mb-3">
 			    						<span class="">Emma Todd</span>
 			    						
 		    						</div>
-		    						<p class="d-flex mb-0 d-block"><a href="https://bibliothequespring-production.up.railway.app/" class="btn btn-secondary py-2 ml-1">Details</a></p>
+		    						<p class="d-flex mb-0 d-block"><a href="https://www.amazon.fr/Lightfall-LOmbre-lOiseau-Tim-Probert-ebook/dp/B0B784WLH1" class="btn btn-secondary py-2 ml-1">Details</a></p>
 		    					</div>
 		    				</div>
     					</div>
-    					<div class="item">
-    						<div class="car-wrap rounded ftco-animate">
+    					<div class="item" style="width: 300px;">
+    						<div class="car-wrap rounded ">
 		    					<div class="img rounded d-flex align-items-end" style="background-image: url(index/images/Harry.webp);">
 		    					</div>
 		    					<div class="text">
-		    						<h2 class="mb-0"><a href="https://bibliothequespring-production.up.railway.app/">Harry and the Prisonner...</a></h2>
+		    						<h2 class="mb-0"><a href="https://citybiblio.lu/resource/harry-potter-and-the-prisoner-of-azkaban?csrt=11747350821973377534">Harry and the Prisonner...</a></h2>
 		    						<div class="d-flex mb-3">
 			    						<span class="">J.K Rowling</span>
 			    						
 		    						</div>
-		    						<p class="d-flex mb-0 d-block"><a href="https://bibliothequespring-production.up.railway.app/" class="btn btn-secondary py-2 ml-1">Details</a></p>
+		    						<p class="d-flex mb-0 d-block"><a href="https://citybiblio.lu/resource/harry-potter-and-the-prisoner-of-azkaban?csrt=11747350821973377534" class="btn btn-secondary py-2 ml-1">Details</a></p>
 		    					</div>
 		    				</div>
     					</div>
-    					<div class="item">
-    						<div class="car-wrap rounded ftco-animate">
+    					<div class="item" style="width: 300px;">
+    						<div class="car-wrap rounded ">
 		    					<div class="img rounded d-flex align-items-end" style="background-image: url(index/images/Harry2.webp);">
 		    					</div>
 		    					<div class="text">
-		    						<h2 class="mb-0"><a href="https://bibliothequespring-production.up.railway.app/">Harry and the Philosopher...</a></h2>
+		    						<h2 class="mb-0"><a href="https://www.britannica.com/topic/Harry-Potter-and-the-Philosophers-Stone">Harry and the Philosopher...</a></h2>
 		    						<div class="d-flex mb-3">
 			    						<span class="">J.K Rowling</span>
 			    						
 		    						</div>
-		    						<p class="d-flex mb-0 d-block"><a href="https://bibliothequespring-production.up.railway.app/" class="btn btn-secondary py-2 ml-1">Details</a></p>
+		    						<p class="d-flex mb-0 d-block"><a href="https://www.britannica.com/topic/Harry-Potter-and-the-Philosophers-Stone" class="btn btn-secondary py-2 ml-1">Details</a></p>
 		    					</div>
 		    				</div>
     					</div>
@@ -209,7 +210,7 @@
 			<div class="overlay"></div>
     	<div class="container">
     		<div class="row">
-          <div class="col-md-6 col-lg-3 justify-content-center counter-wrap ftco-animate">
+          <div class="col-md-6 col-lg-3 justify-content-center counter-wrap ">
             <div class="block-18">
               <div class="text text-border d-flex align-items-center">
                 <strong class="number" data-number="4">0</strong>
@@ -217,7 +218,7 @@
               </div>
             </div>
           </div>
-          <div class="col-md-6 col-lg-3 justify-content-center counter-wrap ftco-animate">
+          <div class="col-md-6 col-lg-3 justify-content-center counter-wrap ">
             <div class="block-18">
               <div class="text text-border d-flex align-items-center">
                 <strong class="number" data-number="445">0</strong>
@@ -225,7 +226,7 @@
               </div>
             </div>
           </div>
-          <div class="col-md-6 col-lg-3 justify-content-center counter-wrap ftco-animate">
+          <div class="col-md-6 col-lg-3 justify-content-center counter-wrap ">
             <div class="block-18">
               <div class="text text-border d-flex align-items-center">
                 <strong class="number" data-number="600">0</strong>
@@ -233,7 +234,7 @@
               </div>
             </div>
           </div>
-          <div class="col-md-6 col-lg-3 justify-content-center counter-wrap ftco-animate">
+          <div class="col-md-6 col-lg-3 justify-content-center counter-wrap ">
             <div class="block-18">
               <div class="text d-flex align-items-center">
                 <strong class="number" data-number="67">0</strong>
@@ -253,9 +254,9 @@
               <h2 class="ftco-heading-2"><a href="https://bibliothequespring-production.up.railway.app/" class="logo">Biblio<span>theque</span></a></h2>
               <p>This project was made by two people <span style="font-weight:bold;font-style:italic;">Ramalalarison Tokiniaina ETU 002180 </span> and <span style="font-weight:bold;font-style:italic;">Raveloson Ismael ETU 002219 </span> </p>
               <ul class="ftco-footer-social list-unstyled float-md-left float-lft mt-5">
-                <li class="ftco-animate"><a href="https://bibliothequespring-production.up.railway.app/"><span class="icon-twitter"></span></a></li>
-                <li class="ftco-animate"><a href="https://bibliothequespring-production.up.railway.app/"><span class="icon-facebook"></span></a></li>
-                <li class="ftco-animate"><a href="https://bibliothequespring-production.up.railway.app/"><span class="icon-instagram"></span></a></li>
+                <li class=""><a href="https://bibliothequespring-production.up.railway.app/"><span class="icon-twitter"></span></a></li>
+                <li class=""><a href="https://bibliothequespring-production.up.railway.app/"><span class="icon-facebook"></span></a></li>
+                <li class=""><a href="https://bibliothequespring-production.up.railway.app/"><span class="icon-instagram"></span></a></li>
               </ul>
             </div>
           </div>
