@@ -95,11 +95,11 @@
 	  	
 	  					<div class="col-md-8 d-flex align-items-center" style="color: #e5e5e5;">
 	  						<div class="services-wrap rounded-right w-100">
-	  							<h3 class="heading-section mb-4">Better Way to Rent Book Online</h3>
+	  							<h2 class="heading-section mb-4">Better Way to Rent Book Online</h2>
 	  							<div class="row d-flex mb-4">
 					          <div class="col-md-4 d-flex align-self-stretch ">
 					            <div class="services w-100 text-center">
-				              	<div class="icon d-flex align-items-center justify-content-center"> <img src="index/icon/avatar.svg" alt="" style="width:70%;"></img> </div>
+				              	<div class="icon d-flex align-items-center justify-content-center"> <img src="index/icon/avatar.svg" alt="1" style="width:70px; height: 70px;"> </div>
 				              	<div class="text w-100">
 					                <h3 class="heading mb-2">Register</h3>
 				                </div>
@@ -107,7 +107,7 @@
 					          </div>
 					          <div class="col-md-4 d-flex align-self-stretch ">
 					            <div class="services w-100 text-center">
-				              	<div class="icon d-flex align-items-center justify-content-center"><img src="index/icon/card.svg" alt="" style="width:70%;"></img> </div>
+				              	<div class="icon d-flex align-items-center justify-content-center"><img src="index/icon/card.svg" alt="2" style="width:70px; height: 70px;"> </div>
 				              	<div class="text w-100">
 					                <h3 class="heading mb-2">Remember your Identifiant</h3>
 					            </div>
@@ -115,7 +115,7 @@
 					          </div>
 					          <div class="col-md-4 d-flex align-self-stretch ">
 					            <div class="services w-100 text-center">
-				              	<div class="icon d-flex align-items-center justify-content-center"> <img src="index/icon/book.svg" alt="" style="width:70%;"></img> </div>
+				              	<div class="icon d-flex align-items-center justify-content-center"> <img src="index/icon/book.svg" alt="3" style="width:70px; height: 70px;"> </div>
 				              	<div class="text w-100">
 					                <h3 class="heading mb-2">Rent many book as you want</h3>
 					            </div>
@@ -252,11 +252,11 @@
             <div class="ftco-footer-widget mb-4">
               <h2 class="ftco-heading-2"><a href="https://bibliothequespring-production.up.railway.app/" class="logo">Biblio<span>theque</span></a></h2>
               <p>This project was made by two people <span style="font-weight:bold;font-style:italic;">Ramalalarison Tokiniaina ETU 002180 </span> and <span style="font-weight:bold;font-style:italic;">Raveloson Ismael ETU 002219 </span> </p>
-              <ul class="ftco-footer-social list-unstyled float-md-left float-lft mt-5">
+              <!-- <ul class="ftco-footer-social list-unstyled float-md-left float-lft mt-5">
                 <li class=""><a href="https://bibliothequespring-production.up.railway.app/"><span class="icon-twitter"></span></a></li>
                 <li class=""><a href="https://bibliothequespring-production.up.railway.app/"><span class="icon-facebook"></span></a></li>
                 <li class=""><a href="https://bibliothequespring-production.up.railway.app/"><span class="icon-instagram"></span></a></li>
-              </ul>
+              </ul> -->
             </div>
           </div>
           <div class="col-md">
