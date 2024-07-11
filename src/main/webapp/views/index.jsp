@@ -73,7 +73,7 @@
 	  </nav>
     <!-- END nav -->
     
-    <div class="hero-wrap ftco-degree-bg" style="background-image: url('index/images/book/library.jpg');" data-stellar-background-ratio="0.5">
+    <div class="hero-wrap ftco-degree-bg" style="background-image: url('index/images/book/library.webp');" data-stellar-background-ratio="0.5">
       <div class="overlay"></div>
       <div class="container">
         <div class="row no-gutters slider-text justify-content-start align-items-center justify-content-center">
@@ -144,7 +144,7 @@
     				<div class="carousel-car owl-carousel">
     					<div class="item">
     						<div class="car-wrap rounded ftco-animate">
-		    					<div class="img rounded d-flex align-items-end" style="background-image: url(index/images/Ary.jpg);">
+		    					<div class="img rounded d-flex align-items-end" style="background-image: url(index/images/Ary.webp);">
 		    					</div>
 		    					<div class="text">
 		    						<h2 class="mb-0"><a href="https://bibliothequespring-production.up.railway.app/">Ary</a></h2>
@@ -158,7 +158,7 @@
     					</div>
     					<div class="item">
     						<div class="car-wrap rounded ftco-animate">
-		    					<div class="img rounded d-flex align-items-end" style="background-image: url(index/images/Lightfall.jpg);">
+		    					<div class="img rounded d-flex align-items-end" style="background-image: url(index/images/Lightfall.webp);">
 		    					</div>
 		    					<div class="text">
 		    						<h2 class="mb-0"><a href="https://bibliothequespring-production.up.railway.app/">Lightfall</a></h2>
@@ -172,7 +172,7 @@
     					</div>
     					<div class="item">
     						<div class="car-wrap rounded ftco-animate">
-		    					<div class="img rounded d-flex align-items-end" style="background-image: url(index/images/Harry.jpg);">
+		    					<div class="img rounded d-flex align-items-end" style="background-image: url(index/images/Harry.webp);">
 		    					</div>
 		    					<div class="text">
 		    						<h2 class="mb-0"><a href="https://bibliothequespring-production.up.railway.app/">Harry and the Prisonner...</a></h2>
@@ -186,7 +186,7 @@
     					</div>
     					<div class="item">
     						<div class="car-wrap rounded ftco-animate">
-		    					<div class="img rounded d-flex align-items-end" style="background-image: url(index/images/Harry2.jpg);">
+		    					<div class="img rounded d-flex align-items-end" style="background-image: url(index/images/Harry2.webp);">
 		    					</div>
 		    					<div class="text">
 		    						<h2 class="mb-0"><a href="https://bibliothequespring-production.up.railway.app/">Harry and the Philosopher...</a></h2>
